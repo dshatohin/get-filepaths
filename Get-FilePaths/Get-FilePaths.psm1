@@ -14,7 +14,6 @@ function Get-FilePaths {
 
 Export-ModuleMember -Function Get-FilePaths
 
-
 <#
 .SYNOPSIS
 Вывод путей файлов в консоль с заданной маской.

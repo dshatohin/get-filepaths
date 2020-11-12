@@ -4,15 +4,14 @@
 
 ## 🔽 Установка
 
-Тут всё просто, копируем в любимую папку с модулями и используем:
+Тут всё просто: скачиваем и копируем `Get-FilePaths` в любую из этих
+папок с модулями и используем:
+- `C:\Program Files\WindowsPowerShell\Modules`
 - `C:\Users\$env:USERNAME\Documents\PowerShell\Modules`
 - `C:\Program Files\PowerShell\Modules`
-- `C:\Program Files\WindowsPowerShell\Modules`
 - `C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules`
 
-Доступные утилиты для использования:
-
-## Get-FilePaths
+## 📂 Get-FilePaths
 
 Вывод путей файлов в консоль с заданной маской 🎭
 
